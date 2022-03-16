@@ -1,0 +1,52 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\standard"
+  },
+  {
+    "Sourcefile": "e:\\CODE\\PRACTICE\\ARDUINO\\Alarm Clock\\Alarm_2\\Build\\sketch\\Alarm_2.ino.cpp",
+    "Include": "TM1637Display.h",
+    "Includepath": "E:\\HOME\\DOCUMENTS\\Arduino\\libraries\\TM1637"
+  },
+  {
+    "Sourcefile": "e:\\CODE\\PRACTICE\\ARDUINO\\Alarm Clock\\Alarm_2\\Build\\sketch\\Alarm_2.ino.cpp",
+    "Include": "DS3231M.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\libraries\\DS3231M-master\\src"
+  },
+  {
+    "Sourcefile": "e:\\CODE\\PRACTICE\\ARDUINO\\Alarm Clock\\Alarm_2\\Build\\sketch\\Alarm_2.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "e:\\CODE\\PRACTICE\\ARDUINO\\Alarm Clock\\Alarm_2\\Build\\sketch\\Alarm_2.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\HOME\\DOCUMENTS\\Arduino\\libraries\\TM1637\\TM1637Display.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\DS3231M-master\\src\\DS3231M.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src\\utility\\twi.c",
+    "Include": "",
+    "Includepath": null
+  }
+]

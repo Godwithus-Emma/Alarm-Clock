@@ -1,0 +1,7 @@
+{
+    "port": "COM8",
+    "board": "arduino:avr:uno",
+    "programmer": "arduino:atmel_ice",
+    "sketch": "Alarm_2.ino",
+    "output": "Build"
+}
